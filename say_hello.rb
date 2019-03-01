@@ -1,4 +1,4 @@
-name = kent_Beck
+name = "Kent Beck"
 
 def say_hello(phrase = "Ruby Programmer", name)
   puts "Hello {#name}!"
