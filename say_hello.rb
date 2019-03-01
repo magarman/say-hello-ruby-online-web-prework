@@ -1,6 +1,6 @@
 name = "Kent Beck"
 
-def say_hello(phrase = "Ruby Programmer", name)
+def say_hello(phrase = "Ruby Programmer!", name)
   puts "Hello {#name}!"
 end
 
